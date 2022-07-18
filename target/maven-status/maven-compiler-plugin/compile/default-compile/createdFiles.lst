@@ -1,3 +1,5 @@
+com\iad\webapp01\SalutiSevlet.class
+com\iad\webapp01\ContatoreServlet.class
 com\iad\webapp01\JakartaRestConfiguration.class
 com\iad\webapp01\resources\JakartaEE9Resource.class
-com\iad\webapp01\SalutamiServlet.class
+com\iad\webapp01\HomeServlet.class
